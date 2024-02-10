@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java and new technologies and different methodologies that help me to grow.
 - 🌱 I’m currently learning k8s
 - 💞️ I'm looking to collaborate on being ready to be a consultant or lead your project to success.
-- 📫 How to reach me via LinkedIn https://www.linkedin.com/in/yevgen-polukov-37a97949/
+- 📫 How to reach me via LinkedIn [https://www.linkedin.com/in/yevgen-polukov/](https://www.linkedin.com/in/yevgen-polukov/)
 - 🛠️ Active practising in HackerRank and LeetCode
 
 <h3 align="left">Connect with me:</h3>
