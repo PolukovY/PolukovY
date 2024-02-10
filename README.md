@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/yevgen-polukov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yevgen-polukov" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4540015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4540015" height="30" width="40" /></a>
-<a href="https://medium.com/@levik666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@levik666" height="30" width="40" /></a>
+<a href="https://medium.com/@yevgenp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@levik666" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/levik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="levik" height="30" width="40" /></a>
 </p>
 
