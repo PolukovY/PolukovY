@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @PolukovY
+<h1 align="center">Hi 👋, I'm Yevgen Polukov</h1>
+<h3 align="center">Lead Software Engineer | Tech Lead | Software Architect | Senior Software Engineer | IT Career Coach, Mentor & Consultant</h3>
+
 - 👀 I’m interested in Java and new technologies and different methodologies that help me to grow.
 - 🌱 I’m currently learning k8s
 - 💞️ I'm looking to collaborate on being ready to be a consultant or lead your project to success.
