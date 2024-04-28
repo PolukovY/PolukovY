@@ -1,7 +1,7 @@
 <img align="center" alt="Coding"  src="https://media.licdn.com/dms/image/C4D16AQGiR2B2auqmyQ/profile-displaybackgroundimage-shrink_350_1400/0/1644583432176?e=1715817600&v=beta&t=RFMEQkWkWmon2xOTUuu7DW4wuGIkSBS_duu3-6rELeI">
 
 <h1 align="center">Hi 👋, I'm Yevgen Polukov</h1>
-<h3 align="center">Lead Software Engineer | Tech Lead | Software Architect | Senior Software Engineer | IT Career Coach, Mentor & Consultant</h3>
+<h3 align="center">Lead Software Engineer | Tech Lead | Senior Software Engineer | IT Career Coach, Mentor & Consultant</h3>
 
 ### General info:
 
