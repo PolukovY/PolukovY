@@ -1,4 +1,4 @@
-<img align="center" alt="Coding"  src="https://media.licdn.com/dms/image/C4D16AQGiR2B2auqmyQ/profile-displaybackgroundimage-shrink_350_1400/0/1644583432176?e=1721260800&v=beta&t=9KTTiRCAsz15GVdW4EucPW3j2zi8boAjJa8FXFeUKuU">
+<img align="center" alt="Coding"  src="https://github.com/user-attachments/assets/9bff4cf3-6876-4d20-95e6-acc9a68f68f2">
 
 <h1 align="center">Hi 👋, I'm Yevgen Polukov</h1>
 <h3 align="center">Lead Software Engineer | Tech Lead | Senior Software Engineer | IT Career Coach, Mentor & Consultant</h3>
