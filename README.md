@@ -1,11 +1,19 @@
 <img align="center" alt="Coding"  src="https://github.com/user-attachments/assets/9bff4cf3-6876-4d20-95e6-acc9a68f68f2">
 
 <h1 align="center">Hi 👋, I'm Yevgen Polukov</h1>
-<h3 align="center">Lead Software Engineer | Tech Lead | Senior Software Engineer | IT Career Coach, Mentor & Consultant</h3>
+<h3 align="center">Tech Lead | Pre-Sales Solution Architect | AI Process Optimizer | Software Delivery Partner | Helping Teams Build Scalable Systems</h3>
 
 ### General info:
 
-With over 10+ years of experience as a commercially focused Java software developer and project lead, I excel in problem-solving and solution development with a keen eye for detail. I have a strong track record of delivering high-quality, well-documented software solutions while ensuring exceptional client service delivery. My experience includes software development using Spring, Hibernate & Hybris for B2B & B2C applications, with a deep understanding of SQL, OOP principles, and GoF and J2EE patterns. I am skilled in communication and possess excellent English proficiency, which enables me to work effectively in cross-functional teams and liaise with stakeholders. My ability to lead projects and deliver top-notch solutions makes me a valuable asset to any organization looking for a strong Java developer and effective leader.
+Experienced Tech Lead and Engineering Strategist with 10+ years in enterprise backend architecture, pre-sales engineering, and high-load systems design.
+
+I bring a unique combination of deep technical expertise, product thinking, and a consultative mindset to help businesses build scalable, resilient, and value-driven software solutions.
+
+My career began with hands-on development in banking and e-commerce, gradually evolving into leading high-performing teams and designing distributed systems across industries. Along the way, I’ve grown into a trusted technical partner, helping clients shape their technical vision and translate it into robust architecture and delivery plans.
+
+I’m a strong team player with a collaborative mindset, known as a go-to person for key technical areas. I mentor peers, proactively share knowledge, and drive internal improvements. My work is guided by precision, clear communication, and a strong commitment to continuous improvement.
+
+I also have solid domain experience in banking, e-commerce, and payment systems, enabling me to align technical strategy with real-world business needs and regulatory environments.
 
 ## Programming Skills:
 - Java SE/EE; Spring Boot/Cloud
